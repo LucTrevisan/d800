@@ -1,0 +1,4 @@
+Coloque aqui o PDF do manual do operador, com o nome:
+manual-operador.pdf
+
+(ou altere CONFIG.manualPdf em src/main.js caso use outro nome)
